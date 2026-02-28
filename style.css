@@ -1,0 +1,22 @@
+body {
+    font-family: Georgia, serif;
+    margin: 20px;
+}
+
+.top-section {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.image-section,
+.trivia-section {
+    margin-top: 25px;
+}
+
+h1, h2 {
+    text-decoration: underline;
+}
+
+img {
+    margin-top: 10px;
+}
